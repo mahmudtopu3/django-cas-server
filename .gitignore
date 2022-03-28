@@ -3,3 +3,7 @@ __pycache__/
 *.log
 .DS_Store
 .idea/
+venv
+.vscode
+vnv 
+venv/
